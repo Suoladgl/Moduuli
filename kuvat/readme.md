@@ -1,0 +1,1 @@
+tämä kansio sisältää kuvia :)
