@@ -1,4 +1,9 @@
  # Esitys
+Aatu Alanen
+Ohjelma tekee valmiin teamspeak VOIP palvelun.
+
+![test](./kuvat/test.PNG)
+
 Moduulin tarkoituksena on luoda teamspeak käyttäjä johon asennetaan teamspeak3 server ja hyväksytään automaattisesti ehdot ja käynnistetään palvelu.
 Moduuli perustuu oletukseen, että käyttöliittymänä on xubuntu-18.04.
 
